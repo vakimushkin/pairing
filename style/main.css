@@ -1,0 +1,25 @@
+
+#input {
+	margin: 10px;
+
+}
+
+#leftcol {
+    width: 50%;
+    float: left;
+}
+
+#rightcol {
+    width: 50%;
+    float: right;
+}
+
+
+.result{
+	color: #2c3bd6;
+	font-size: 3em;
+	background-color: #2b8bfa26;
+	border: solid #155595;
+	margin: 10px;
+    padding: 50px;
+}
